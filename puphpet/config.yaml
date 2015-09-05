@@ -332,7 +332,7 @@ python:
     packages: {  }
     versions: {  }
 nodejs:
-    install: '0'
+    install: '1'
     npm_packages: {  }
 hhvm:
     install: '0'
